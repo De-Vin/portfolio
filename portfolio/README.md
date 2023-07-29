@@ -25,15 +25,15 @@ npm run test
 
 ## Author
 
-👤 **Prem Kumar bheemuni**
+👤 **Vinay Avvaru**
 
-* Website: https://www.linkedin.com/in/prembheemuni/
-* Github: [@prembheemuni](https://github.com/prembheemuni)
-* LinkedIn: [@prembheemuni](https://linkedin.com/in/prembheemuni)
+* Website: https://www.linkedin.com/in/vinay-avvaru-750712154/
+* Github: [@VinayAvvaru](https://github.com/De-Vin)
+* LinkedIn: [@VinayAvvaru](https://www.linkedin.com/in/vinay-avvaru-750712154/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/De-Vin)_
